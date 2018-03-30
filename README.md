@@ -1,8 +1,8 @@
-#Indonesia TopoJSON File
+# Indonesia TopoJSON File
 
 This file just include data for Indonesia provinces and places. 
 
-##GeoJSON files
+## GeoJSON files
 
 Generate `subunit.json` map file. This command will include Malaysia, Brunei, Singapore and Papua New Guinea maps. For smaller file size just remove **MYS**, **BRN**, **SGP** and **PNG** options.
 
@@ -18,18 +18,19 @@ Generate `places.json` map file
     $ ogr2ogr -f GeoJSON -where "ISO_A2 = 'ID' AND SCALERANK < 8" places.json maps/ne_10m_populated_places.shp 
 
 
-##TopoJSON file
+## TopoJSON file
 
 Generate topojson `indonesia.json` file
 
     $ topojson -o indonesia.json --id-property SU_A3 --properties -- subunits.json states_provinces.json places.json
 
 
-##Demo
+## Demo
 
 [http://bl.ocks.org/junwatu/ac08d962f07d770aba99](http://bl.ocks.org/junwatu/ac08d962f07d770aba99)
 
----
+
+## License
 
 The MIT License (MIT)
 

@@ -24,6 +24,8 @@ Generate topojson `indonesia.json` file
 
     $ topojson -o indonesia.json --id-property SU_A3 --properties -- subunits.json states_provinces.json places.json
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=junwatu/indonesia.json@github)](https://gitads.dev/v1/ad-track?source=junwatu/indonesia.json@github)
 
 ## Demo
 
@@ -56,7 +58,5 @@ SOFTWARE.
 
 <!-- GitAds-Verify: XW29E4TVOW4LAX8P2WSTUEB977VEG4H7 -->
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=junwatu/indonesia.json@github)](https://gitads.dev/v1/ad-track?source=junwatu/indonesia.json@github)
 
 

@@ -55,3 +55,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <!-- GitAds-Verify: XW29E4TVOW4LAX8P2WSTUEB977VEG4H7 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=junwatu/indonesia.json@github)](https://gitads.dev/v1/ad-track?source=junwatu/indonesia.json@github)
+
+
